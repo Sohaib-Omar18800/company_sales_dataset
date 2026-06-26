@@ -2,7 +2,7 @@
 
 A dynamic executive-level sales dataset performance dashboard engineered in Excel using a sleek dark theme mode to analyze monthly sales variances, team performance extremes, and MoM growth trajectories.
 
-![Monthly Sales.png]
+![Monthly Sales](Monthly%20Sales.png)
 
 ## 🎯 Project Objectives & Insights
 * **Salesforce Evaluation:** Traced individual performance metrics per salesperson (e.g., John, Lisa, James) and isolated performance variance extremes.
